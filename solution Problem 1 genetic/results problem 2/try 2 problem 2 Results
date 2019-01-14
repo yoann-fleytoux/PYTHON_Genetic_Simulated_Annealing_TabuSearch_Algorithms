@@ -1,0 +1,204 @@
+python3 algoGeneticProb1.py 
+Choose the set of Data used to solve the problem: 0/1/2/3: 1
+SOLUTION  0  in:  0.07 seconds
+SOLUTION  1  in:  0.04 seconds
+SOLUTION  2  in:  0.04 seconds
+SOLUTION  3  in:  0.07 seconds
+SOLUTION  4  in:  0.05 seconds
+SOLUTION  5  in:  0.07 seconds
+SOLUTION  6  in:  0.05 seconds
+SOLUTION  7  in:  0.05 seconds
+SOLUTION  8  in:  0.1 seconds
+SOLUTION  9  in:  0.01 seconds
+SOLUTION  10  in:  0.11 seconds
+SOLUTION  11  in:  0.03 seconds
+SOLUTION  12  in:  0.1 seconds
+SOLUTION  13  in:  0.02 seconds
+SOLUTION  14  in:  0.02 seconds
+SOLUTION  15  in:  0.1 seconds
+SOLUTION  16  in:  0.07 seconds
+SOLUTION  17  in:  0.06 seconds
+SOLUTION  18  in:  0.06 seconds
+SOLUTION  19  in:  0.19 seconds
+First generation generated in: -- 1.34 seconds ---
+Best Score:  453
+Best:  448 Best Total: 448 1:  30.58 % 2:  29.67 % B:  17.5 % M:  22.25 % total generated:  70  in: 0.6 seconds
+Best:  451 Best Total: 448 1:  28.42 % 2:  27.5 % B:  21.42 % M:  22.67 % total generated:  120  in: 0.41 seconds
+Best:  455 Best Total: 448 1:  26.75 % 2:  24.5 % B:  25.58 % M:  23.17 % total generated:  170  in: 0.42 seconds
+Best:  452 Best Total: 448 1:  26.67 % 2:  26.92 % B:  26.42 % M:  20.0 % total generated:  220  in: 0.38 seconds
+Best:  445 Best Total: 445 1:  27.33 % 2:  26.42 % B:  24.75 % M:  21.5 % total generated:  270  in: 0.52 seconds
+Best:  444 Best Total: 444 1:  25.08 % 2:  27.75 % B:  28.5 % M:  18.67 % total generated:  320  in: 0.46 seconds
+Best:  446 Best Total: 444 1:  24.17 % 2:  21.25 % B:  30.92 % M:  23.67 % total generated:  370  in: 0.54 seconds
+Best:  449 Best Total: 444 1:  21.75 % 2:  22.83 % B:  33.17 % M:  22.25 % total generated:  420  in: 0.54 seconds
+Best:  447 Best Total: 444 1:  25.25 % 2:  22.5 % B:  31.42 % M:  20.83 % total generated:  470  in: 0.42 seconds
+Best:  454 Best Total: 444 1:  23.58 % 2:  25.67 % B:  32.42 % M:  18.33 % total generated:  520  in: 0.43 seconds
+Best:  442 Best Total: 442 1:  22.58 % 2:  20.58 % B:  35.0 % M:  21.83 % total generated:  570  in: 0.46 seconds
+Best:  451 Best Total: 442 1:  23.25 % 2:  25.5 % B:  32.0 % M:  19.25 % total generated:  620  in: 0.57 seconds
+Best:  448 Best Total: 442 1:  23.5 % 2:  24.08 % B:  29.42 % M:  23.0 % total generated:  670  in: 0.53 seconds
+Best:  447 Best Total: 442 1:  20.92 % 2:  25.17 % B:  31.92 % M:  22.0 % total generated:  720  in: 0.56 seconds
+Best:  448 Best Total: 442 1:  25.17 % 2:  24.42 % B:  29.17 % M:  21.25 % total generated:  770  in: 0.42 seconds
+Best:  448 Best Total: 442 1:  25.67 % 2:  26.17 % B:  27.33 % M:  20.83 % total generated:  820  in: 0.5 seconds
+Best:  453 Best Total: 442 1:  25.42 % 2:  25.5 % B:  28.08 % M:  21.0 % total generated:  870  in: 0.44 seconds
+Best:  440 Best Total: 440 1:  23.08 % 2:  25.5 % B:  28.08 % M:  23.33 % total generated:  920  in: 0.45 seconds
+Best:  447 Best Total: 440 1:  24.08 % 2:  26.5 % B:  25.25 % M:  24.17 % total generated:  970  in: 0.56 seconds
+Best:  443 Best Total: 440 1:  25.33 % 2:  23.58 % B:  31.5 % M:  19.58 % total generated:  1020  in: 0.73 seconds
+Best:  455 Best Total: 440 1:  23.42 % 2:  24.33 % B:  31.17 % M:  21.08 % total generated:  1070  in: 0.61 seconds
+Best:  446 Best Total: 440 1:  24.75 % 2:  23.83 % B:  31.83 % M:  19.58 % total generated:  1120  in: 0.41 seconds
+Best:  452 Best Total: 440 1:  23.75 % 2:  23.0 % B:  33.08 % M:  20.17 % total generated:  1170  in: 0.52 seconds
+Best:  438 Best Total: 438 1:  23.83 % 2:  22.17 % B:  32.33 % M:  21.67 % total generated:  1220  in: 0.49 seconds
+Best:  454 Best Total: 438 1:  23.17 % 2:  24.5 % B:  32.67 % M:  19.67 % total generated:  1270  in: 0.61 seconds
+Best:  444 Best Total: 438 1:  23.67 % 2:  26.0 % B:  28.75 % M:  21.58 % total generated:  1320  in: 0.6 seconds
+Best:  449 Best Total: 438 1:  25.67 % 2:  22.42 % B:  32.0 % M:  19.92 % total generated:  1370  in: 0.89 seconds
+Best:  437 Best Total: 437 1:  19.75 % 2:  24.83 % B:  33.33 % M:  22.08 % total generated:  1420  in: 0.64 seconds
+Best:  446 Best Total: 437 1:  20.0 % 2:  22.17 % B:  34.25 % M:  23.58 % total generated:  1470  in: 0.44 seconds
+Best:  443 Best Total: 437 1:  21.58 % 2:  21.42 % B:  33.67 % M:  23.33 % total generated:  1520  in: 0.47 seconds
+Best:  446 Best Total: 437 1:  23.83 % 2:  23.17 % B:  31.67 % M:  21.33 % total generated:  1570  in: 0.46 seconds
+Best:  443 Best Total: 437 1:  24.08 % 2:  25.0 % B:  28.42 % M:  22.5 % total generated:  1620  in: 0.62 seconds
+Best:  449 Best Total: 437 1:  24.67 % 2:  24.5 % B:  28.25 % M:  22.58 % total generated:  1670  in: 0.48 seconds
+Best:  441 Best Total: 437 1:  26.33 % 2:  26.33 % B:  24.33 % M:  23.0 % total generated:  1720  in: 0.57 seconds
+Best:  453 Best Total: 437 1:  24.42 % 2:  28.33 % B:  21.08 % M:  26.17 % total generated:  1770  in: 0.45 seconds
+Best:  450 Best Total: 437 1:  27.0 % 2:  25.92 % B:  23.67 % M:  23.42 % total generated:  1820  in: 0.58 seconds
+Best:  443 Best Total: 437 1:  24.25 % 2:  28.25 % B:  22.42 % M:  25.08 % total generated:  1870  in: 0.73 seconds
+Best:  453 Best Total: 437 1:  23.25 % 2:  25.92 % B:  28.67 % M:  22.17 % total generated:  1920  in: 0.7 seconds
+Best:  448 Best Total: 437 1:  20.25 % 2:  22.5 % B:  36.67 % M:  20.58 % total generated:  1970  in: 0.49 seconds
+Best:  448 Best Total: 437 1:  19.92 % 2:  22.92 % B:  36.0 % M:  21.17 % total generated:  2020  in: 0.53 seconds
+Best:  448 Best Total: 437 1:  22.58 % 2:  23.67 % B:  31.75 % M:  22.0 % total generated:  2070  in: 0.52 seconds
+Best:  445 Best Total: 437 1:  27.42 % 2:  24.58 % B:  25.92 % M:  22.08 % total generated:  2120  in: 0.44 seconds
+Best:  441 Best Total: 437 1:  25.25 % 2:  26.0 % B:  26.0 % M:  22.75 % total generated:  2170  in: 0.54 seconds
+Best:  450 Best Total: 437 1:  24.25 % 2:  25.83 % B:  29.5 % M:  20.42 % total generated:  2220  in: 0.6 seconds
+Best:  442 Best Total: 437 1:  25.25 % 2:  24.08 % B:  27.5 % M:  23.17 % total generated:  2270  in: 0.49 seconds
+Best:  451 Best Total: 437 1:  25.33 % 2:  28.42 % B:  25.92 % M:  20.33 % total generated:  2320  in: 0.42 seconds
+Best:  449 Best Total: 437 1:  26.83 % 2:  27.25 % B:  26.08 % M:  19.83 % total generated:  2370  in: 0.35 seconds
+Best:  447 Best Total: 437 1:  23.83 % 2:  22.75 % B:  31.08 % M:  22.33 % total generated:  2420  in: 0.48 seconds
+Best:  446 Best Total: 437 1:  23.33 % 2:  23.42 % B:  30.25 % M:  23.0 % total generated:  2470  in: 0.48 seconds
+Best:  444 Best Total: 437 1:  27.83 % 2:  24.0 % B:  26.83 % M:  21.33 % total generated:  2520  in: 0.46 seconds
+Best:  452 Best Total: 437 1:  25.42 % 2:  23.0 % B:  29.67 % M:  21.92 % total generated:  2570  in: 0.43 seconds
+Best:  451 Best Total: 437 1:  28.42 % 2:  24.42 % B:  26.42 % M:  20.75 % total generated:  2620  in: 0.46 seconds
+Best:  450 Best Total: 437 1:  26.0 % 2:  23.75 % B:  29.08 % M:  21.17 % total generated:  2670  in: 0.52 seconds
+Best:  453 Best Total: 437 1:  25.33 % 2:  27.83 % B:  23.25 % M:  23.58 % total generated:  2720  in: 0.52 seconds
+Best:  452 Best Total: 437 1:  28.75 % 2:  25.75 % B:  22.67 % M:  22.83 % total generated:  2770  in: 0.47 seconds
+Best:  440 Best Total: 437 1:  26.92 % 2:  24.67 % B:  24.83 % M:  23.58 % total generated:  2820  in: 0.6 seconds
+Best:  448 Best Total: 437 1:  28.83 % 2:  26.67 % B:  21.5 % M:  23.0 % total generated:  2870  in: 0.5 seconds
+Best:  445 Best Total: 437 1:  27.42 % 2:  26.33 % B:  23.17 % M:  23.08 % total generated:  2920  in: 0.5 seconds
+Best:  448 Best Total: 437 1:  28.17 % 2:  26.67 % B:  24.92 % M:  20.25 % total generated:  2970  in: 0.52 seconds
+Best:  445 Best Total: 437 1:  28.08 % 2:  25.42 % B:  23.17 % M:  23.33 % total generated:  3020  in: 0.64 seconds
+Best:  442 Best Total: 437 1:  23.25 % 2:  26.5 % B:  26.33 % M:  23.92 % total generated:  3070  in: 0.46 seconds
+Best:  447 Best Total: 437 1:  24.42 % 2:  26.75 % B:  27.25 % M:  21.58 % total generated:  3120  in: 0.36 seconds
+Best:  454 Best Total: 437 1:  26.42 % 2:  22.17 % B:  28.42 % M:  23.0 % total generated:  3170  in: 0.62 seconds
+Best:  450 Best Total: 437 1:  21.58 % 2:  26.0 % B:  30.92 % M:  21.5 % total generated:  3220  in: 0.57 seconds
+Best:  439 Best Total: 437 1:  22.42 % 2:  21.83 % B:  33.67 % M:  22.08 % total generated:  3270  in: 0.56 seconds
+Best:  438 Best Total: 437 1:  23.92 % 2:  21.25 % B:  30.08 % M:  24.75 % total generated:  3320  in: 0.48 seconds
+Best:  448 Best Total: 437 1:  23.17 % 2:  26.83 % B:  25.5 % M:  24.5 % total generated:  3370  in: 0.46 seconds
+Best:  446 Best Total: 437 1:  25.92 % 2:  26.5 % B:  26.67 % M:  20.92 % total generated:  3420  in: 0.52 seconds
+Best:  436 Best Total: 436 1:  26.25 % 2:  26.42 % B:  23.83 % M:  23.5 % total generated:  3470  in: 0.58 seconds
+Best:  450 Best Total: 436 1:  25.83 % 2:  27.42 % B:  26.67 % M:  20.08 % total generated:  3520  in: 0.47 seconds
+Best:  442 Best Total: 436 1:  26.42 % 2:  26.25 % B:  25.17 % M:  22.17 % total generated:  3570  in: 0.51 seconds
+Best:  450 Best Total: 436 1:  29.25 % 2:  25.17 % B:  23.75 % M:  21.83 % total generated:  3620  in: 0.36 seconds
+Best:  452 Best Total: 436 1:  24.33 % 2:  29.83 % B:  22.58 % M:  23.25 % total generated:  3670  in: 0.51 seconds
+Best:  451 Best Total: 436 1:  28.08 % 2:  27.92 % B:  22.83 % M:  21.17 % total generated:  3720  in: 0.49 seconds
+Best:  452 Best Total: 436 1:  26.42 % 2:  26.92 % B:  25.42 % M:  21.25 % total generated:  3770  in: 0.61 seconds
+Best:  454 Best Total: 436 1:  28.67 % 2:  26.33 % B:  23.25 % M:  21.75 % total generated:  3820  in: 0.53 seconds
+Best:  448 Best Total: 436 1:  26.17 % 2:  28.83 % B:  22.0 % M:  23.0 % total generated:  3870  in: 0.46 seconds
+Best:  447 Best Total: 436 1:  26.25 % 2:  28.83 % B:  22.08 % M:  22.83 % total generated:  3920  in: 0.4 seconds
+
+Agent  0 :3  9  23  
+Agent  1 :6  17  18  22  
+Agent  2 :7  20  
+Agent  3 :0  1  11  
+Agent  4 :4  12  16  
+Agent  5 :2  8  15  21  
+Agent  6 :5  10  19  
+Agent  7 :13  14  
+
+Score:  453
+
+Agent  0 :3  9  23  
+Agent  1 :6  22  
+Agent  2 :5  11  21  
+Agent  3 :1  8  14  16  
+Agent  4 :2  12  
+Agent  5 :7  13  17  
+Agent  6 :4  10  18  19  
+Agent  7 :0  15  20  
+
+Score:  448
+
+Agent  0 :3  4  12  14  
+Agent  1 :17  22  
+Agent  2 :7  13  21  
+Agent  3 :0  8  16  
+Agent  4 :6  15  18  
+Agent  5 :5  23  
+Agent  6 :1  9  10  19  
+Agent  7 :2  11  20  
+
+Score:  445
+
+Agent  0 :3  12  20  
+Agent  1 :2  6  18  22  
+Agent  2 :7  17  21  
+Agent  3 :1  8  14  16  
+Agent  4 :10  
+Agent  5 :13  23  
+Agent  6 :4  9  11  19  
+Agent  7 :0  5  15  
+
+Score:  444
+
+Agent  0 :8  10  
+Agent  1 :6  16  18  
+Agent  2 :0  7  21  
+Agent  3 :1  11  15  
+Agent  4 :12  20  22  
+Agent  5 :2  9  13  23  
+Agent  6 :4  17  19  
+Agent  7 :3  5  14  
+
+Score:  442
+
+Agent  0 :4  8  23  
+Agent  1 :6  12  18  
+Agent  2 :7  11  13  21  
+Agent  3 :1  16  
+Agent  4 :2  15  
+Agent  5 :3  9  17  
+Agent  6 :10  19  22  
+Agent  7 :0  5  14  20  
+
+Score:  440
+
+Agent  0 :8  12  
+Agent  1 :10  18  22  
+Agent  2 :0  21  
+Agent  3 :1  9  13  16  
+Agent  4 :2  15  
+Agent  5 :7  17  20  23  
+Agent  6 :4  6  11  19  
+Agent  7 :3  5  14  
+
+Score:  438
+
+Agent  0 :7  8  
+Agent  1 :6  12  22  
+Agent  2 :5  11  21  
+Agent  3 :0  1  14  
+Agent  4 :9  18  
+Agent  5 :3  13  17  23  
+Agent  6 :4  10  16  19  
+Agent  7 :2  15  20  
+
+Score:  437
+
+Agent  0 :3  14  23  
+Agent  1 :6  16  20  
+Agent  2 :5  7  21  
+Agent  3 :1  4  8  
+Agent  4 :9  18  
+Agent  5 :12  13  17  
+Agent  6 :2  10  11  19  
+Agent  7 :0  15  22  
+
+Score:  436
+Number total of solution tested:  3920
+Total execution time --- 41.52 seconds ---
+

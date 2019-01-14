@@ -1,0 +1,33 @@
+python3 algoGeneticProb1.py 
+Choose the set of Data used to solve the problem: 0/1/2/3: 3
+SOLUTION  0  in:  7.59 seconds
+SOLUTION  1  in:  6.99 seconds
+SOLUTION  2  in:  6.0 seconds
+SOLUTION  3  in:  4.07 seconds
+SOLUTION  4  in:  4.83 seconds
+SOLUTION  5  in:  2.01 seconds
+SOLUTION  6  in:  10.15 seconds
+SOLUTION  7  in:  0.31 seconds
+SOLUTION  8  in:  11.78 seconds
+SOLUTION  9  in:  1.36 seconds
+First generation generated in: -- 55.09 seconds ---
+Best Score:  1176
+Best:  1187 Best Total: 1176 1:  38.08 % 2:  40.83 % B:  14.33 % M:  6.75 % total generated:  30  in: 1.66 seconds
+Best:  1181 Best Total: 1176 1:  33.58 % 2:  34.0 % B:  24.83 % M:  7.58 % total generated:  50  in: 2.46 seconds
+Best:  1184 Best Total: 1176 1:  27.92 % 2:  31.92 % B:  30.42 % M:  9.75 % total generated:  70  in: 192.01 seconds
+
+Agent  0 :9  18  20  27  36  49  
+Agent  1 :0  10  22  23  50  59  
+Agent  2 :2  13  37  43  51  
+Agent  3 :12  25  30  44  52  
+Agent  4 :3  4  5  41  45  53  
+Agent  5 :6  15  26  39  46  54  
+Agent  6 :1  28  29  32  35  40  
+Agent  7 :7  16  17  24  31  33  38  57  
+Agent  8 :11  14  19  34  47  55  58  
+Agent  9 :8  21  42  48  56  
+
+Score:  1176
+Number total of solution tested:  70
+Total execution time --- 251.23 seconds ---
+

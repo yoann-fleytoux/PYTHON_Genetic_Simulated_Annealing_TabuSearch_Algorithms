@@ -1,0 +1,91 @@
+python3 algoGeneticProb1.py 
+Choose the set of Data used to solve the problem: 0/1/2/3: 3
+SOLUTION  0  in:  2.14 seconds
+SOLUTION  1  in:  26.74 seconds
+SOLUTION  2  in:  13.24 seconds
+SOLUTION  3  in:  4.28 seconds
+SOLUTION  4  in:  0.87 seconds
+SOLUTION  5  in:  42.07 seconds
+SOLUTION  6  in:  5.59 seconds
+SOLUTION  7  in:  4.58 seconds
+SOLUTION  8  in:  2.03 seconds
+SOLUTION  9  in:  2.09 seconds
+First generation generated in: -- 103.62 seconds ---
+Best Score:  1196
+Best:  1179 Best Total: 1179 1:  35.67 % 2:  41.08 % B:  15.58 % M:  7.67 % total generated:  30  in: 4.1 seconds
+Best:  1172 Best Total: 1172 1:  35.5 % 2:  27.83 % B:  28.0 % M:  8.67 % total generated:  50  in: 1.99 seconds
+Best:  1176 Best Total: 1172 1:  28.25 % 2:  27.0 % B:  35.75 % M:  9.0 % total generated:  70  in: 7.06 seconds
+Best:  1166 Best Total: 1166 1:  23.5 % 2:  23.33 % B:  44.08 % M:  9.08 % total generated:  90  in: 13.87 seconds
+Best:  1152 Best Total: 1152 1:  22.25 % 2:  28.5 % B:  41.58 % M:  7.67 % total generated:  110  in: 9.04 seconds
+Best:  1158 Best Total: 1152 1:  20.5 % 2:  20.5 % B:  50.75 % M:  8.25 % total generated:  130  in: 2.17 seconds
+Best:  1179 Best Total: 1152 1:  25.75 % 2:  17.67 % B:  49.58 % M:  7.0 % total generated:  150  in: 8.18 seconds
+Best:  1172 Best Total: 1152 1:  20.17 % 2:  23.5 % B:  47.92 % M:  8.42 % total generated:  170  in: 8.42 seconds
+Best:  1154 Best Total: 1152 1:  21.33 % 2:  23.25 % B:  45.75 % M:  9.67 % total generated:  190  in: 84.49 seconds
+
+Agent  0 :14  20  21  33  38  51  
+Agent  1 :0  9  16  17  22  28  39  55  
+Agent  2 :6  19  26  34  
+Agent  3 :1  12  25  27  35  47  56  
+Agent  4 :3  4  43  52  57  
+Agent  5 :2  15  40  44  48  58  
+Agent  6 :5  8  29  31  41  59  
+Agent  7 :13  30  36  45  49  53  
+Agent  8 :7  18  23  46  54  
+Agent  9 :10  11  24  32  37  42  50  
+
+Score:  1196
+
+Agent  0 :4  20  42  48  54  
+Agent  1 :0  16  23  27  49  55  
+Agent  2 :1  9  33  43  50  56  
+Agent  3 :3  18  29  31  39  46  
+Agent  4 :5  12  21  30  40  45  51  57  
+Agent  5 :2  6  25  52  58  
+Agent  6 :11  13  26  28  41  47  
+Agent  7 :7  17  34  38  44  59  
+Agent  8 :8  14  22  24  37  53  
+Agent  9 :10  15  19  32  35  36  
+
+Score:  1179
+
+Agent  0 :14  17  20  21  36  46  51  
+Agent  1 :18  33  37  45  
+Agent  2 :0  4  9  23  25  52  57  
+Agent  3 :12  30  53  58  
+Agent  4 :10  28  31  40  47  54  59  
+Agent  5 :3  6  8  15  26  41  48  
+Agent  6 :5  13  38  42  49  
+Agent  7 :7  16  43  50  55  
+Agent  8 :1  22  24  27  34  39  44  
+Agent  9 :2  11  19  29  32  35  56  
+
+Score:  1172
+
+Agent  0 :4  20  31  43  51  
+Agent  1 :0  23  47  52  57  
+Agent  2 :1  15  25  29  42  58  
+Agent  3 :13  18  28  48  53  
+Agent  4 :5  8  21  30  35  44  54  59  
+Agent  5 :3  6  22  26  39  49  
+Agent  6 :11  32  40  45  55  
+Agent  7 :7  16  24  33  37  50  
+Agent  8 :9  12  14  27  34  36  38  
+Agent  9 :2  10  17  19  41  46  56  
+
+Score:  1166
+
+Agent  0 :14  17  28  52  58  
+Agent  1 :0  1  10  23  26  47  59  
+Agent  2 :4  9  16  25  34  42  
+Agent  3 :2  19  43  48  53  
+Agent  4 :8  18  30  31  33  35  44  54  
+Agent  5 :3  6  20  39  41  45  49  
+Agent  6 :13  37  50  55  
+Agent  7 :11  12  24  38  51  56  
+Agent  8 :5  27  36  57  
+Agent  9 :7  15  21  22  29  32  40  46  
+
+Score:  1152
+Number total of solution tested:  190
+Total execution time --- 242.95 seconds ---
+

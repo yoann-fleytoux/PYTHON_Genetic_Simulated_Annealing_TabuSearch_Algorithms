@@ -1,0 +1,97 @@
+python3 algoGeneticProb1.py 
+Choose the set of Data used to solve the problem: 0/1/2/3: 3
+SOLUTION  0  in:  3.78 seconds
+SOLUTION  1  in:  9.65 seconds
+SOLUTION  2  in:  4.2 seconds
+SOLUTION  3  in:  16.09 seconds
+SOLUTION  4  in:  1.91 seconds
+SOLUTION  5  in:  0.41 seconds
+SOLUTION  6  in:  3.66 seconds
+SOLUTION  7  in:  1.66 seconds
+SOLUTION  8  in:  2.65 seconds
+SOLUTION  9  in:  2.13 seconds
+First generation generated in: -- 46.14 seconds ---
+Best Score:  1178
+Best:  1172 Best Total: 1172 1:  44.67 % 2:  35.42 % B:  13.08 % M:  6.83 % total generated:  30  in: 3.9 seconds
+Best:  1165 Best Total: 1165 1:  39.5 % 2:  35.42 % B:  19.17 % M:  5.92 % total generated:  50  in: 1.56 seconds
+Best:  1168 Best Total: 1165 1:  29.58 % 2:  34.75 % B:  28.0 % M:  7.67 % total generated:  70  in: 1.92 seconds
+Best:  1168 Best Total: 1165 1:  32.33 % 2:  26.33 % B:  33.58 % M:  7.75 % total generated:  90  in: 2.56 seconds
+Best:  1156 Best Total: 1156 1:  29.5 % 2:  28.25 % B:  35.75 % M:  6.5 % total generated:  110  in: 1.89 seconds
+Best:  1155 Best Total: 1155 1:  28.83 % 2:  28.83 % B:  36.0 % M:  6.33 % total generated:  130  in: 2.29 seconds
+Best:  1176 Best Total: 1155 1:  26.25 % 2:  27.25 % B:  39.08 % M:  7.42 % total generated:  150  in: 5.43 seconds
+Best:  1156 Best Total: 1155 1:  22.75 % 2:  30.08 % B:  40.42 % M:  6.75 % total generated:  170  in: 1.26 seconds
+Best:  1166 Best Total: 1155 1:  24.17 % 2:  18.92 % B:  49.08 % M:  7.83 % total generated:  190  in: 1.42 seconds
+Best:  1173 Best Total: 1155 1:  17.92 % 2:  22.33 % B:  52.5 % M:  7.25 % total generated:  210  in: 10.98 seconds
+Best:  1177 Best Total: 1155 1:  16.83 % 2:  20.08 % B:  55.83 % M:  7.25 % total generated:  230  in: 17.07 seconds
+Best:  1183 Best Total: 1155 1:  18.92 % 2:  18.17 % B:  55.83 % M:  7.08 % total generated:  250  in: 40.61 seconds
+Best:  1161 Best Total: 1155 1:  17.83 % 2:  17.75 % B:  57.75 % M:  6.67 % total generated:  270  in: 5.9 seconds
+Best:  1182 Best Total: 1155 1:  18.17 % 2:  17.92 % B:  55.25 % M:  8.67 % total generated:  290  in: 9.18 seconds
+Best:  1197 Best Total: 1155 1:  21.33 % 2:  20.08 % B:  51.0 % M:  7.58 % total generated:  310  in: 69.54 seconds
+
+Agent  0 :8  17  31  44  54  59  
+Agent  1 :0  5  26  30  40  48  
+Agent  2 :1  9  16  23  25  36  55  
+Agent  3 :3  10  49  50  56  
+Agent  4 :4  15  21  34  35  41  57  
+Agent  5 :2  20  42  45  58  
+Agent  6 :6  12  18  27  46  51  
+Agent  7 :7  13  28  32  37  
+Agent  8 :11  14  24  33  38  47  52  
+Agent  9 :19  22  29  39  43  53  
+
+Score:  1178
+
+Agent  0 :14  22  36  38  48  54  
+Agent  1 :0  16  23  25  30  44  55  
+Agent  2 :1  13  39  45  56  
+Agent  3 :3  20  21  31  35  49  
+Agent  4 :4  6  7  33  50  57  
+Agent  5 :10  15  26  40  46  
+Agent  6 :9  19  28  41  47  
+Agent  7 :5  12  17  37  51  
+Agent  8 :8  18  24  27  34  42  52  58  
+Agent  9 :2  11  29  32  43  53  59  
+
+Score:  1172
+
+Agent  0 :17  19  20  22  44  45  53  
+Agent  1 :0  1  6  23  36  54  59  
+Agent  2 :14  24  25  41  46  
+Agent  3 :3  7  18  30  31  34  39  47  
+Agent  4 :4  15  26  28  35  48  55  
+Agent  5 :5  8  16  40  49  
+Agent  6 :9  11  29  32  37  42  
+Agent  7 :10  33  38  50  56  
+Agent  8 :13  27  43  51  57  
+Agent  9 :2  12  21  52  58  
+
+Score:  1165
+
+Agent  0 :14  17  18  22  35  45  53  
+Agent  1 :1  7  16  23  36  39  46  59  
+Agent  2 :13  47  
+Agent  3 :3  19  30  37  40  48  
+Agent  4 :4  5  15  26  31  41  54  
+Agent  5 :11  25  32  49  55  
+Agent  6 :6  20  28  42  56  
+Agent  7 :0  12  33  38  50  57  
+Agent  8 :8  9  24  27  34  43  51  58  
+Agent  9 :2  10  21  29  44  52  
+
+Score:  1156
+
+Agent  0 :5  20  29  35  45  53  
+Agent  1 :13  23  36  39  46  54  
+Agent  2 :0  1  4  9  16  25  40  47  
+Agent  3 :10  17  24  30  37  48  
+Agent  4 :8  14  26  31  55  
+Agent  5 :18  32  41  49  56  
+Agent  6 :2  6  22  27  28  42  
+Agent  7 :3  11  12  33  38  50  57  
+Agent  8 :7  19  34  43  51  58  
+Agent  9 :15  21  44  52  59  
+
+Score:  1155
+Number total of solution tested:  310
+Total execution time --- 221.66 seconds ---
+

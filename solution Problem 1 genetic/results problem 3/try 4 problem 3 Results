@@ -1,0 +1,108 @@
+python3 algoGeneticProb1.py 
+Choose the set of Data used to solve the problem: 0/1/2/3: 2
+SOLUTION  0  in:  1.97 seconds
+SOLUTION  1  in:  0.37 seconds
+SOLUTION  2  in:  0.98 seconds
+SOLUTION  3  in:  0.46 seconds
+SOLUTION  4  in:  1.14 seconds
+SOLUTION  5  in:  0.31 seconds
+SOLUTION  6  in:  1.09 seconds
+SOLUTION  7  in:  1.21 seconds
+SOLUTION  8  in:  1.34 seconds
+SOLUTION  9  in:  0.28 seconds
+First generation generated in: -- 9.16 seconds ---
+Best Score:  787
+Best:  773 Best Total: 773 1:  36.42 % 2:  32.08 % B:  14.25 % M:  17.25 % total generated:  40  in: 2.27 seconds
+Best:  761 Best Total: 761 1:  30.67 % 2:  28.75 % B:  20.25 % M:  20.33 % total generated:  70  in: 1.31 seconds
+Best:  759 Best Total: 759 1:  28.0 % 2:  29.75 % B:  24.08 % M:  18.17 % total generated:  100  in: 1.47 seconds
+Best:  770 Best Total: 759 1:  29.33 % 2:  32.0 % B:  22.92 % M:  15.75 % total generated:  130  in: 0.79 seconds
+Best:  776 Best Total: 759 1:  26.33 % 2:  32.67 % B:  22.33 % M:  18.67 % total generated:  160  in: 0.54 seconds
+Best:  758 Best Total: 758 1:  27.75 % 2:  27.33 % B:  27.25 % M:  17.67 % total generated:  190  in: 0.91 seconds
+Best:  779 Best Total: 758 1:  27.75 % 2:  27.33 % B:  26.92 % M:  18.0 % total generated:  220  in: 0.89 seconds
+Best:  781 Best Total: 758 1:  25.58 % 2:  30.25 % B:  25.67 % M:  18.5 % total generated:  250  in: 2.08 seconds
+Best:  789 Best Total: 758 1:  26.42 % 2:  28.92 % B:  26.75 % M:  17.92 % total generated:  280  in: 1.59 seconds
+Best:  776 Best Total: 758 1:  27.67 % 2:  24.17 % B:  29.08 % M:  19.08 % total generated:  310  in: 1.79 seconds
+Best:  767 Best Total: 758 1:  27.75 % 2:  28.25 % B:  26.75 % M:  17.25 % total generated:  340  in: 3.05 seconds
+Best:  781 Best Total: 758 1:  28.75 % 2:  25.92 % B:  25.92 % M:  19.42 % total generated:  370  in: 10.8 seconds
+Best:  777 Best Total: 758 1:  29.17 % 2:  24.75 % B:  29.17 % M:  16.92 % total generated:  400  in: 5.23 seconds
+Best:  769 Best Total: 758 1:  27.08 % 2:  25.08 % B:  32.5 % M:  15.33 % total generated:  430  in: 3.89 seconds
+Best:  781 Best Total: 758 1:  25.25 % 2:  25.0 % B:  33.25 % M:  16.5 % total generated:  460  in: 2.21 seconds
+Best:  769 Best Total: 758 1:  23.33 % 2:  26.08 % B:  34.25 % M:  16.33 % total generated:  490  in: 1.55 seconds
+Best:  763 Best Total: 758 1:  24.67 % 2:  26.67 % B:  31.0 % M:  17.67 % total generated:  520  in: 2.1 seconds
+Best:  769 Best Total: 758 1:  27.75 % 2:  23.58 % B:  30.67 % M:  18.0 % total generated:  550  in: 4.26 seconds
+Best:  760 Best Total: 758 1:  26.42 % 2:  24.92 % B:  31.83 % M:  16.83 % total generated:  580  in: 1.88 seconds
+Best:  764 Best Total: 758 1:  23.58 % 2:  26.67 % B:  30.33 % M:  19.42 % total generated:  610  in: 1.39 seconds
+Best:  776 Best Total: 758 1:  28.58 % 2:  25.5 % B:  30.0 % M:  15.92 % total generated:  640  in: 1.32 seconds
+Best:  762 Best Total: 758 1:  27.25 % 2:  27.58 % B:  26.75 % M:  18.42 % total generated:  670  in: 1.94 seconds
+Best:  769 Best Total: 758 1:  26.5 % 2:  27.67 % B:  28.5 % M:  17.33 % total generated:  700  in: 1.48 seconds
+Best:  768 Best Total: 758 1:  27.17 % 2:  26.25 % B:  29.75 % M:  16.83 % total generated:  730  in: 2.07 seconds
+Best:  767 Best Total: 758 1:  25.25 % 2:  28.0 % B:  29.17 % M:  17.58 % total generated:  760  in: 1.33 seconds
+Best:  769 Best Total: 758 1:  28.25 % 2:  25.17 % B:  27.08 % M:  19.5 % total generated:  790  in: 2.15 seconds
+
+Agent  0 :8  22  25  27  
+Agent  1 :10  31  38  
+Agent  2 :13  32  
+Agent  3 :1  4  15  17  24  26  
+Agent  4 :7  14  19  28  39  
+Agent  5 :5  9  16  33  
+Agent  6 :3  18  20  34  
+Agent  7 :11  35  
+Agent  8 :6  12  23  30  36  
+Agent  9 :0  2  21  29  37  
+
+Score:  787
+
+Agent  0 :1  27  38  
+Agent  1 :10  26  31  
+Agent  2 :3  5  13  18  39  
+Agent  3 :4  15  17  24  32  
+Agent  4 :6  7  14  19  28  
+Agent  5 :9  16  33  
+Agent  6 :20  25  34  
+Agent  7 :11  35  
+Agent  8 :0  12  22  23  30  36  
+Agent  9 :2  8  21  29  37  
+
+Score:  773
+
+Agent  0 :1  12  14  20  25  
+Agent  1 :15  24  26  32  35  
+Agent  2 :13  23  27  36  
+Agent  3 :3  10  17  21  
+Agent  4 :6  7  16  30  34  
+Agent  5 :4  5  18  28  
+Agent  6 :8  33  37  
+Agent  7 :11  29  
+Agent  8 :0  9  19  22  38  
+Agent  9 :2  31  39  
+
+Score:  761
+
+Agent  0 :0  5  25  29  31  
+Agent  1 :6  19  26  30  32  
+Agent  2 :2  9  13  18  35  
+Agent  3 :10  24  36  
+Agent  4 :11  15  16  
+Agent  5 :7  14  33  38  
+Agent  6 :8  28  34  
+Agent  7 :17  20  39  
+Agent  8 :4  12  22  23  27  
+Agent  9 :1  3  21  37  
+
+Score:  759
+
+Agent  0 :11  31  38  
+Agent  1 :16  24  32  
+Agent  2 :13  27  28  39  
+Agent  3 :1  6  10  15  29  
+Agent  4 :2  7  23  33  
+Agent  5 :4  21  34  
+Agent  6 :5  12  20  35  
+Agent  7 :8  17  25  26  
+Agent  8 :0  9  14  22  30  36  
+Agent  9 :3  18  19  37  
+
+Score:  758
+Number total of solution tested:  790
+Total execution time --- 69.47 seconds ---
+
